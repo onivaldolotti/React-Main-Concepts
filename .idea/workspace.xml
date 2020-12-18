@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90bfb285-fc6e-47dc-b7b2-649f5d46a275" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+>>>>>>> 80d81865785b60cb43dadbe5b8c01511e43c5b5a
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +24,7 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -21,6 +32,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 80d81865785b60cb43dadbe5b8c01511e43c5b5a
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -47,9 +60,12 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="RenderingElements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/RenderingElements.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
+=======
+>>>>>>> 80d81865785b60cb43dadbe5b8c01511e43c5b5a
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -60,11 +76,14 @@
       <envs />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.RenderingElements.js" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> 80d81865785b60cb43dadbe5b8c01511e43c5b5a
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,7 +95,10 @@
       <updated>1608227927404</updated>
       <workItem from="1608227928641" duration="606000" />
       <workItem from="1608291312537" duration="5061000" />
+<<<<<<< HEAD
       <workItem from="1608298265365" duration="11037000" />
+=======
+>>>>>>> 80d81865785b60cb43dadbe5b8c01511e43c5b5a
     </task>
     <servers />
   </component>
